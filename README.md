@@ -1,5 +1,5 @@
 ## sejam bem vindo 😎 
-me chamou Aline 
+me chamo Aline 
 
 Estou cursando a matéria [Pensamento Computacional](https://blog.conexia.com.br/pensamento-computacional/) e estou aprendendo a programar em JavaScript
 
