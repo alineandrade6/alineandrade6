@@ -1,7 +1,7 @@
 ## sejam bem vindo 😎 
 me chamou Aline 
 
-Estou cursando a matéria **Pensamento Computacional** e estou aprendendo a programar em JavaScript
+Estou cursando a matéria [Pensamento Computacional](https://blog.conexia.com.br/pensamento-computacional/) e estou aprendendo a programar em JavaScript
 
 
 
@@ -9,4 +9,3 @@ Estou cursando a matéria **Pensamento Computacional** e estou aprendendo a prog
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-[pensamento computacional](https://blog.conexia.com.br/pensamento-computacional/)
